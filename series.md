@@ -40,6 +40,6 @@ https://pan.quark.cn/s/276313cf164f
 
 + https://www.123912.com/s/SjrSTd-1T65d
 
-### AI 系列
+### AI 系列（300多本，大模型、deepseek、chatgpt、aigc、应用开发、科普入门、Deep learning、机器学习、自然语言处理、计算机视觉）
 
 https://pan.quark.cn/s/cf98c97825c5

@@ -9,3 +9,7 @@ GitHub：github.com/it-ebooks-0/gpt-translated-pdf-zh
 网盘：https://pan.quark.cn/s/f8206281560c
 
 所有资料都是 PDF 格式，下载后即可离线阅读，值得看下有没有你在寻找的资料中文翻译版。
+
+## Rust 电子书合集 
+
+https://pan.quark.cn/s/2c1e2410c513
