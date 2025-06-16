@@ -39,3 +39,7 @@ https://pan.quark.cn/s/276313cf164f
 + https://www.123684.com/s/SjrSTd-1T65d
 
 + https://www.123912.com/s/SjrSTd-1T65d
+
+### AI 系列
+
+https://pan.quark.cn/s/cf98c97825c5
