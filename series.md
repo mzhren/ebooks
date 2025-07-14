@@ -40,6 +40,17 @@ https://pan.quark.cn/s/276313cf164f
 
 + https://www.123912.com/s/SjrSTd-1T65d
 
-### AI 系列（300多本，大模型、deepseek、chatgpt、aigc、应用开发、科普入门、Deep learning、机器学习、自然语言处理、计算机视觉）
+## AI 系列（300多本，大模型、deepseek、chatgpt、aigc、应用开发、科普入门、Deep learning、机器学习、自然语言处理、计算机视觉）
 
 https://pan.quark.cn/s/cf98c97825c5
+
+## 明解系列
+
++ 明解C语言.入门篇.第3版
++ 明解C语言.中级篇
++ 明解C语言.实践篇
++ 明解C++
++ 明解Python
++ 明解Java
+
+https://pan.quark.cn/s/5a7ebf2238d5
