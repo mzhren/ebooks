@@ -54,3 +54,8 @@ https://pan.quark.cn/s/cf98c97825c5
 + 明解Java
 
 https://pan.quark.cn/s/5a7ebf2238d5
+
+
+## 图灵新知系列
+
+https://pan.quark.cn/s/1d61bc9b35fb
