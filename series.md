@@ -77,6 +77,23 @@ https://pan.quark.cn/s/1d61bc9b35fb
 https://pan.quark.cn/s/9539ee533d08
 
 
-## xxx维修不是事儿
+## 【xxx维修不是事儿】系列
 
 https://pan.quark.cn/s/103f2ede1601
+
+## 中华传世藏书
+
+链接：https://pan.quark.cn/s/620b306e9afa 提取码：WgJb
+
+## 最新的AI和Agent开发相关的电子书
+
++ pring AI 实战
++ 大型语言模型的工作原理
++ 构建智能体 AI：工作流、微调、优化与部署
++ 基础图谱增强检索
++ 生成式 AI 设计模式
++ 使用 OpenAI Agents SDK 构建智能体
++ 为人工智能代理管理记忆
++ 智能体设计模式：构建智能系统的实践指南
+
+链接：https://pan.quark.cn/s/6c6a50b0f4b8
