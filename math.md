@@ -6,7 +6,7 @@ https://pan.quark.cn/s/f5ce4126bb77
 
 链接：https://pan.quark.cn/s/b8bbb5ea5c14
 
-## 超图解趣味数学
+## 超图解趣味数学(共5册)
 
 链接：https://pan.quark.cn/s/00866bba1118
 
